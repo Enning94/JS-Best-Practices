@@ -13,7 +13,7 @@
 - open in your vs code terminal and run live server
 
 ## Live Demo (if available)
-
+https://enning94.github.io/JS-Best-Practices/src/
 
 ## Authors
 
