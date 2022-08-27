@@ -1,5 +1,5 @@
 # To-Do-List
-> This project is to build a To-Do List to keep track of my activites. Different functionality will be implemented in every Milestone.
+> This project is a To-Do List app, built to keep track of my activites. It is designed to have certain functionalities such as editing a task on the list, check when completed and deleting all completed tasks without erasing the remaining tasks. 
 
 ## Built With
 - HTML && CSS
@@ -13,7 +13,7 @@
 - open in your vs code terminal and run live server
 
 ## Live Demo (if available)
-
+https://enning94.github.io/JS-Best-Practices/src/
 
 ## Authors
 
