@@ -1,5 +1,5 @@
 # To-Do-List
-> This project is a To-Do List app, built to keep track of my activites. It is designed to have certain functionalities such as editing a task on the list, check when completed and deleting all completed tasks without erasing the remaining tasks. 
+> This project is a To-Do List app, built to keep track of my activities. It is designed to have certain functionalities such as editing a task on the list, checking when completed, and deleting all completed tasks without erasing the remaining tasks.
 
 ## Built With
 - HTML && CSS
